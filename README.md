@@ -1,24 +1,7 @@
-# README
+# GitHub Oauth Exercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Login Page
 
-Things you may want to cover:
+### Dashboard Repo List
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Refactor Example
